@@ -11,3 +11,7 @@
     </tr>
   </table>
 </div>
+<div style="text-align: left; font-style: italic;">
+  Work it harder, make it better<br>
+  Do it faster, makes us stronger
+</div>
