@@ -11,7 +11,10 @@
     </tr>
   </table>
 </div>
-<div style="text-align: left; font-style: italic;">
+
+<div align="left">
+  <i>
   Work it harder, make it better<br>
   Do it faster, makes us stronger
+  </i>
 </div>
