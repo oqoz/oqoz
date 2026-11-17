@@ -12,9 +12,9 @@
   </table>
 </div>
 
-<div align="left">
+<p align="left">
   <i>
   Work it harder, make it better<br>
   Do it faster, makes us stronger
   </i>
-</div>
+</p>
