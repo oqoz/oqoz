@@ -4,6 +4,7 @@
       <td>
         <img
           src="https://media.giphy.com/media/nPxVvyTWo1aIU/giphy.gif"
+          width="750"
           alt="Computer GIF"
         />
       </td>
